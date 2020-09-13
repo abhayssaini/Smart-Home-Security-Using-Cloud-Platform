@@ -2,8 +2,7 @@
 
 # Introduction
 
- This home security project is build up from next level of technology i.e. using cloud platform which will alert you "Someone at the door" no matter  where you are in present.
-
+ This home security project is build using cloud platform which will alert you "Someone at the door" no matter where you are. When the camera detects any human face then code will capture the face and simultaneously his/her img file will be uploaded in cloud database and will display in web application showing who is at the door. Apart from this, we will also get SMS alert in mobile phone.
 
 
 ## File contains:- 
